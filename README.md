@@ -5,11 +5,19 @@ Probably the most complete *selecting* solution for Vue.js 2.0, without jQuery.
 
 ## Sponsors
 
+### Gold
+
+<p align="center">
+  <a href="https://vueschool.io?utm_source=dmd&utm_medium=link&friend=vuenews" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/491313387129667594/678936303089483786/vueschool.png" alt="Vue School" width="320px">
+  </a>
+</p>
+
 ### Silver
 
 <p align="center">
-  <a href="https://www.nativescript.org/vue?utm_source=vuejsnewsletter&utm_medium=email&utm_campaign=nativescript-awareness" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/491313387129667594/602523039229542400/nativescript-logo.png" alt="NativeScript" width="170px">
+  <a href="https://www.storyblok.com/developers?utm_source=newsletter&utm_medium=logo&utm_campaign=vuejs-newsletter" target="_blank">
+    <img src="https://a.storyblok.com/f/51376/3856x824/fea44d52a9/colored-full.png" alt="Storyblok" width="240px">
   </a>
 </p>
 
@@ -18,6 +26,9 @@ Probably the most complete *selecting* solution for Vue.js 2.0, without jQuery.
 <p align="center">
   <a href="https://www.vuemastery.com/" target="_blank">
     <img src="https://cdn.discordapp.com/attachments/258614093362102272/557267759130607630/Vue-Mastery-Big.png" alt="Vue Mastery logo" width="180px">
+  </a>
+  <a href="https://vuejobs.com/" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/560524372897562636/636900598700179456/vuejobs-logo.png" alt="Vue Mastery logo" width="140px">
   </a>
 </p>
 
